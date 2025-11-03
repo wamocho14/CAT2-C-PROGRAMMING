@@ -1,8 +1,8 @@
-
-
-
-
-
+// Hello World
+/*
+NAME: GRIFFIN MUTALI
+REG NO: PA106/G/28744/25
+*/
 #include <stdio.h>
 
 // 1. Create input.txt with 10 numbers
@@ -75,6 +75,7 @@ int main() {
     createInputFile();    // Task 1
     processNumbers();     // Task 2
     displayFiles();       // Task 3
-    printf("\n* ALL TASKS COMPLETED – SUBMIT NOW! *\n");
+    printf("\n* ALL TASKS COMPLETED â€“ SUBMIT NOW! *\n");
     return 0;
+
 }
